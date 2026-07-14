@@ -25,5 +25,10 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/kaushal0194/Practice-DSA/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/kaushal0194/Practice-DSA/tree/master/0151-reverse-words-in-a-string) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/kaushal0194/Practice-DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
