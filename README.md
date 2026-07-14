@@ -18,4 +18,12 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/kaushal0194/Practice-DSA/tree/master/0509-fibonacci-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/kaushal0194/Practice-DSA/tree/master/0151-reverse-words-in-a-string) |
+## String
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/kaushal0194/Practice-DSA/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
