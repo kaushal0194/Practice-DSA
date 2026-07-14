@@ -27,9 +27,14 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/kaushal0194/Practice-DSA/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/kaushal0194/Practice-DSA/tree/master/0151-reverse-words-in-a-string) |
+| [2678-number-of-senior-citizens](https://github.com/kaushal0194/Practice-DSA/tree/master/2678-number-of-senior-citizens) |
 | [3110-score-of-a-string](https://github.com/kaushal0194/Practice-DSA/tree/master/3110-score-of-a-string) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kaushal0194/Practice-DSA/tree/master/0020-valid-parentheses) |
+## Array
+|  |
+| ------- |
+| [2678-number-of-senior-citizens](https://github.com/kaushal0194/Practice-DSA/tree/master/2678-number-of-senior-citizens) |
 <!---LeetCode Topics End-->
