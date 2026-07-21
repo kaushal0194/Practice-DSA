@@ -29,6 +29,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/kaushal0194/Practice-DSA/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/kaushal0194/Practice-DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/kaushal0194/Practice-DSA/tree/master/0459-repeated-substring-pattern) |
 | [2678-number-of-senior-citizens](https://github.com/kaushal0194/Practice-DSA/tree/master/2678-number-of-senior-citizens) |
 | [3110-score-of-a-string](https://github.com/kaushal0194/Practice-DSA/tree/master/3110-score-of-a-string) |
 ## Stack
@@ -45,4 +46,8 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kaushal0194/Practice-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/kaushal0194/Practice-DSA/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
