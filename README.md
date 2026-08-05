@@ -5,11 +5,13 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/kaushal0194/Practice-DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/kaushal0194/Practice-DSA/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/kaushal0194/Practice-DSA/tree/master/0877-stone-game) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/kaushal0194/Practice-DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/kaushal0194/Practice-DSA/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/kaushal0194/Practice-DSA/tree/master/0877-stone-game) |
 ## Recursion
@@ -19,6 +21,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/kaushal0194/Practice-DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/kaushal0194/Practice-DSA/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
