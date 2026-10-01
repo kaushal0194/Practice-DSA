@@ -27,6 +27,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kaushal0194/Practice-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/kaushal0194/Practice-DSA/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/kaushal0194/Practice-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kaushal0194/Practice-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -35,6 +36,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kaushal0194/Practice-DSA/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kaushal0194/Practice-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0071-simplify-path](https://github.com/kaushal0194/Practice-DSA/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/kaushal0194/Practice-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/kaushal0194/Practice-DSA/tree/master/0459-repeated-substring-pattern) |
@@ -66,6 +68,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kaushal0194/Practice-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/kaushal0194/Practice-DSA/tree/master/0459-repeated-substring-pattern) |
 ## Sorting
 |  |
@@ -93,4 +96,16 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/kaushal0194/Practice-DSA/tree/master/0075-sort-colors) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kaushal0194/Practice-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kaushal0194/Practice-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kaushal0194/Practice-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
