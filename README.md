@@ -52,6 +52,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/kaushal0194/Practice-DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0046-permutations](https://github.com/kaushal0194/Practice-DSA/tree/master/0046-permutations) |
 | [0075-sort-colors](https://github.com/kaushal0194/Practice-DSA/tree/master/0075-sort-colors) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kaushal0194/Practice-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kaushal0194/Practice-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -131,4 +132,8 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/kaushal0194/Practice-DSA/tree/master/0912-sort-an-array) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/kaushal0194/Practice-DSA/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
