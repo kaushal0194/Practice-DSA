@@ -37,6 +37,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/kaushal0194/Practice-DSA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kaushal0194/Practice-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0038-count-and-say](https://github.com/kaushal0194/Practice-DSA/tree/master/0038-count-and-say) |
 | [0071-simplify-path](https://github.com/kaushal0194/Practice-DSA/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/kaushal0194/Practice-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/kaushal0194/Practice-DSA/tree/master/0459-repeated-substring-pattern) |
