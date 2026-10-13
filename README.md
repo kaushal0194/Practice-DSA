@@ -27,6 +27,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kaushal0194/Practice-DSA/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kaushal0194/Practice-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/kaushal0194/Practice-DSA/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/kaushal0194/Practice-DSA/tree/master/0151-reverse-words-in-a-string) |
@@ -52,6 +53,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kaushal0194/Practice-DSA/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kaushal0194/Practice-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0046-permutations](https://github.com/kaushal0194/Practice-DSA/tree/master/0046-permutations) |
 | [0075-sort-colors](https://github.com/kaushal0194/Practice-DSA/tree/master/0075-sort-colors) |
@@ -137,4 +139,8 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/kaushal0194/Practice-DSA/tree/master/0046-permutations) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/kaushal0194/Practice-DSA/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
