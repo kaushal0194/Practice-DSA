@@ -57,6 +57,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/kaushal0194/Practice-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0046-permutations](https://github.com/kaushal0194/Practice-DSA/tree/master/0046-permutations) |
 | [0075-sort-colors](https://github.com/kaushal0194/Practice-DSA/tree/master/0075-sort-colors) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/kaushal0194/Practice-DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kaushal0194/Practice-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kaushal0194/Practice-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/kaushal0194/Practice-DSA/tree/master/0283-move-zeroes) |
@@ -69,6 +70,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/kaushal0194/Practice-DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/kaushal0194/Practice-DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kaushal0194/Practice-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## String Matching
 |  |
