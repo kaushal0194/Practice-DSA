@@ -55,6 +55,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/kaushal0194/Practice-DSA/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kaushal0194/Practice-DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kaushal0194/Practice-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0046-permutations](https://github.com/kaushal0194/Practice-DSA/tree/master/0046-permutations) |
 | [0074-search-a-2d-matrix](https://github.com/kaushal0194/Practice-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/kaushal0194/Practice-DSA/tree/master/0075-sort-colors) |
@@ -74,6 +75,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/kaushal0194/Practice-DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kaushal0194/Practice-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/kaushal0194/Practice-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kaushal0194/Practice-DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/kaushal0194/Practice-DSA/tree/master/0162-find-peak-element) |
