@@ -63,6 +63,7 @@
 | [0162-find-peak-element](https://github.com/kaushal0194/Practice-DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kaushal0194/Practice-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kaushal0194/Practice-DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0275-h-index-ii](https://github.com/kaushal0194/Practice-DSA/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/kaushal0194/Practice-DSA/tree/master/0283-move-zeroes) |
 | [0877-stone-game](https://github.com/kaushal0194/Practice-DSA/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/kaushal0194/Practice-DSA/tree/master/0912-sort-an-array) |
@@ -78,6 +79,7 @@
 | [0162-find-peak-element](https://github.com/kaushal0194/Practice-DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kaushal0194/Practice-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kaushal0194/Practice-DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0275-h-index-ii](https://github.com/kaushal0194/Practice-DSA/tree/master/0275-h-index-ii) |
 ## String Matching
 |  |
 | ------- |
