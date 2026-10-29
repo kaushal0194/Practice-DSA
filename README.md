@@ -34,6 +34,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kaushal0194/Practice-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/kaushal0194/Practice-DSA/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/kaushal0194/Practice-DSA/tree/master/0443-string-compression) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/kaushal0194/Practice-DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/kaushal0194/Practice-DSA/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 ## String
 |  |
@@ -73,6 +74,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/kaushal0194/Practice-DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0877-stone-game](https://github.com/kaushal0194/Practice-DSA/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/kaushal0194/Practice-DSA/tree/master/0912-sort-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/kaushal0194/Practice-DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kaushal0194/Practice-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/kaushal0194/Practice-DSA/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [2678-number-of-senior-citizens](https://github.com/kaushal0194/Practice-DSA/tree/master/2678-number-of-senior-citizens) |
@@ -90,6 +92,7 @@
 | [0275-h-index-ii](https://github.com/kaushal0194/Practice-DSA/tree/master/0275-h-index-ii) |
 | [0436-find-right-interval](https://github.com/kaushal0194/Practice-DSA/tree/master/0436-find-right-interval) |
 | [0713-subarray-product-less-than-k](https://github.com/kaushal0194/Practice-DSA/tree/master/0713-subarray-product-less-than-k) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/kaushal0194/Practice-DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/kaushal0194/Practice-DSA/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 ## String Matching
 |  |
@@ -102,6 +105,7 @@
 | [0075-sort-colors](https://github.com/kaushal0194/Practice-DSA/tree/master/0075-sort-colors) |
 | [0436-find-right-interval](https://github.com/kaushal0194/Practice-DSA/tree/master/0436-find-right-interval) |
 | [0912-sort-an-array](https://github.com/kaushal0194/Practice-DSA/tree/master/0912-sort-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/kaushal0194/Practice-DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kaushal0194/Practice-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/kaushal0194/Practice-DSA/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [3731-find-missing-elements](https://github.com/kaushal0194/Practice-DSA/tree/master/3731-find-missing-elements) |
