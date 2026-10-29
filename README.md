@@ -67,6 +67,7 @@
 | [0275-h-index-ii](https://github.com/kaushal0194/Practice-DSA/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/kaushal0194/Practice-DSA/tree/master/0283-move-zeroes) |
 | [0436-find-right-interval](https://github.com/kaushal0194/Practice-DSA/tree/master/0436-find-right-interval) |
+| [0713-subarray-product-less-than-k](https://github.com/kaushal0194/Practice-DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0877-stone-game](https://github.com/kaushal0194/Practice-DSA/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/kaushal0194/Practice-DSA/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kaushal0194/Practice-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -84,6 +85,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/kaushal0194/Practice-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0275-h-index-ii](https://github.com/kaushal0194/Practice-DSA/tree/master/0275-h-index-ii) |
 | [0436-find-right-interval](https://github.com/kaushal0194/Practice-DSA/tree/master/0436-find-right-interval) |
+| [0713-subarray-product-less-than-k](https://github.com/kaushal0194/Practice-DSA/tree/master/0713-subarray-product-less-than-k) |
 ## String Matching
 |  |
 | ------- |
@@ -164,4 +166,12 @@
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/kaushal0194/Practice-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kaushal0194/Practice-DSA/tree/master/0240-search-a-2d-matrix-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/kaushal0194/Practice-DSA/tree/master/0713-subarray-product-less-than-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/kaushal0194/Practice-DSA/tree/master/0713-subarray-product-less-than-k) |
 <!---LeetCode Topics End-->
