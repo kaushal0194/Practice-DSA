@@ -33,6 +33,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/kaushal0194/Practice-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kaushal0194/Practice-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/kaushal0194/Practice-DSA/tree/master/0283-move-zeroes) |
+| [0443-string-compression](https://github.com/kaushal0194/Practice-DSA/tree/master/0443-string-compression) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/kaushal0194/Practice-DSA/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 ## String
 |  |
@@ -42,6 +43,7 @@
 | [0038-count-and-say](https://github.com/kaushal0194/Practice-DSA/tree/master/0038-count-and-say) |
 | [0071-simplify-path](https://github.com/kaushal0194/Practice-DSA/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/kaushal0194/Practice-DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0443-string-compression](https://github.com/kaushal0194/Practice-DSA/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/kaushal0194/Practice-DSA/tree/master/0459-repeated-substring-pattern) |
 | [2678-number-of-senior-citizens](https://github.com/kaushal0194/Practice-DSA/tree/master/2678-number-of-senior-citizens) |
 | [3110-score-of-a-string](https://github.com/kaushal0194/Practice-DSA/tree/master/3110-score-of-a-string) |
