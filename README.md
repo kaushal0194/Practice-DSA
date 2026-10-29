@@ -33,6 +33,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/kaushal0194/Practice-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kaushal0194/Practice-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/kaushal0194/Practice-DSA/tree/master/0283-move-zeroes) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/kaushal0194/Practice-DSA/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 ## String
 |  |
 | ------- |
@@ -71,6 +72,7 @@
 | [0877-stone-game](https://github.com/kaushal0194/Practice-DSA/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/kaushal0194/Practice-DSA/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kaushal0194/Practice-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/kaushal0194/Practice-DSA/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [2678-number-of-senior-citizens](https://github.com/kaushal0194/Practice-DSA/tree/master/2678-number-of-senior-citizens) |
 | [3731-find-missing-elements](https://github.com/kaushal0194/Practice-DSA/tree/master/3731-find-missing-elements) |
 ## Binary Search
@@ -86,6 +88,7 @@
 | [0275-h-index-ii](https://github.com/kaushal0194/Practice-DSA/tree/master/0275-h-index-ii) |
 | [0436-find-right-interval](https://github.com/kaushal0194/Practice-DSA/tree/master/0436-find-right-interval) |
 | [0713-subarray-product-less-than-k](https://github.com/kaushal0194/Practice-DSA/tree/master/0713-subarray-product-less-than-k) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/kaushal0194/Practice-DSA/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 ## String Matching
 |  |
 | ------- |
@@ -98,6 +101,7 @@
 | [0436-find-right-interval](https://github.com/kaushal0194/Practice-DSA/tree/master/0436-find-right-interval) |
 | [0912-sort-an-array](https://github.com/kaushal0194/Practice-DSA/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kaushal0194/Practice-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/kaushal0194/Practice-DSA/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [3731-find-missing-elements](https://github.com/kaushal0194/Practice-DSA/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -174,4 +178,5 @@
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/kaushal0194/Practice-DSA/tree/master/0713-subarray-product-less-than-k) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/kaushal0194/Practice-DSA/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 <!---LeetCode Topics End-->
