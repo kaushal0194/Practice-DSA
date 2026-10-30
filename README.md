@@ -33,6 +33,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/kaushal0194/Practice-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kaushal0194/Practice-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/kaushal0194/Practice-DSA/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/kaushal0194/Practice-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/kaushal0194/Practice-DSA/tree/master/0443-string-compression) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/kaushal0194/Practice-DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/kaushal0194/Practice-DSA/tree/master/1508-range-sum-of-sorted-subarray-sums) |
@@ -70,6 +71,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/kaushal0194/Practice-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0275-h-index-ii](https://github.com/kaushal0194/Practice-DSA/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/kaushal0194/Practice-DSA/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/kaushal0194/Practice-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0436-find-right-interval](https://github.com/kaushal0194/Practice-DSA/tree/master/0436-find-right-interval) |
 | [0713-subarray-product-less-than-k](https://github.com/kaushal0194/Practice-DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0877-stone-game](https://github.com/kaushal0194/Practice-DSA/tree/master/0877-stone-game) |
@@ -90,6 +92,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kaushal0194/Practice-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kaushal0194/Practice-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0275-h-index-ii](https://github.com/kaushal0194/Practice-DSA/tree/master/0275-h-index-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/kaushal0194/Practice-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0436-find-right-interval](https://github.com/kaushal0194/Practice-DSA/tree/master/0436-find-right-interval) |
 | [0713-subarray-product-less-than-k](https://github.com/kaushal0194/Practice-DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/kaushal0194/Practice-DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -103,6 +106,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/kaushal0194/Practice-DSA/tree/master/0075-sort-colors) |
+| [0349-intersection-of-two-arrays](https://github.com/kaushal0194/Practice-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0436-find-right-interval](https://github.com/kaushal0194/Practice-DSA/tree/master/0436-find-right-interval) |
 | [0912-sort-an-array](https://github.com/kaushal0194/Practice-DSA/tree/master/0912-sort-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/kaushal0194/Practice-DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -121,6 +125,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/kaushal0194/Practice-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [3731-find-missing-elements](https://github.com/kaushal0194/Practice-DSA/tree/master/3731-find-missing-elements) |
 ## Quicksort
 |  |
