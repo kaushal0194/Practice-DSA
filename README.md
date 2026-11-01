@@ -39,6 +39,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/kaushal0194/Practice-DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/kaushal0194/Practice-DSA/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/kaushal0194/Practice-DSA/tree/master/2903-find-indices-with-index-and-value-difference-i) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/kaushal0194/Practice-DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## String
 |  |
 | ------- |
@@ -84,6 +85,7 @@
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/kaushal0194/Practice-DSA/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [2678-number-of-senior-citizens](https://github.com/kaushal0194/Practice-DSA/tree/master/2678-number-of-senior-citizens) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/kaushal0194/Practice-DSA/tree/master/2903-find-indices-with-index-and-value-difference-i) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/kaushal0194/Practice-DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3731-find-missing-elements](https://github.com/kaushal0194/Practice-DSA/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -197,4 +199,8 @@
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/kaushal0194/Practice-DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/kaushal0194/Practice-DSA/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+## Simulation
+|  |
+| ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/kaushal0194/Practice-DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
