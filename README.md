@@ -38,6 +38,7 @@
 | [0611-valid-triangle-number](https://github.com/kaushal0194/Practice-DSA/tree/master/0611-valid-triangle-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/kaushal0194/Practice-DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/kaushal0194/Practice-DSA/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+| [2903-find-indices-with-index-and-value-difference-i](https://github.com/kaushal0194/Practice-DSA/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 ## String
 |  |
 | ------- |
@@ -82,6 +83,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kaushal0194/Practice-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/kaushal0194/Practice-DSA/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [2678-number-of-senior-citizens](https://github.com/kaushal0194/Practice-DSA/tree/master/2678-number-of-senior-citizens) |
+| [2903-find-indices-with-index-and-value-difference-i](https://github.com/kaushal0194/Practice-DSA/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [3731-find-missing-elements](https://github.com/kaushal0194/Practice-DSA/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
