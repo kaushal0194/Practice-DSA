@@ -7,6 +7,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/kaushal0194/Practice-DSA/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kaushal0194/Practice-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0231-power-of-two](https://github.com/kaushal0194/Practice-DSA/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/kaushal0194/Practice-DSA/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/kaushal0194/Practice-DSA/tree/master/0877-stone-game) |
 ## Dynamic Programming
@@ -18,6 +19,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/kaushal0194/Practice-DSA/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/kaushal0194/Practice-DSA/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -215,4 +217,8 @@
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kaushal0194/Practice-DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/kaushal0194/Practice-DSA/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
