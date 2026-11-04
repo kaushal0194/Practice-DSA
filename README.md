@@ -8,6 +8,7 @@
 | [0070-climbing-stairs](https://github.com/kaushal0194/Practice-DSA/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kaushal0194/Practice-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/kaushal0194/Practice-DSA/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/kaushal0194/Practice-DSA/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/kaushal0194/Practice-DSA/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/kaushal0194/Practice-DSA/tree/master/0877-stone-game) |
 ## Dynamic Programming
@@ -20,6 +21,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/kaushal0194/Practice-DSA/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/kaushal0194/Practice-DSA/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/kaushal0194/Practice-DSA/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
