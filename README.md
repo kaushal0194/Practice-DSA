@@ -47,6 +47,7 @@
 | [0917-reverse-only-letters](https://github.com/kaushal0194/Practice-DSA/tree/master/0917-reverse-only-letters) |
 | [0922-sort-array-by-parity-ii](https://github.com/kaushal0194/Practice-DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [0925-long-pressed-name](https://github.com/kaushal0194/Practice-DSA/tree/master/0925-long-pressed-name) |
+| [1089-duplicate-zeros](https://github.com/kaushal0194/Practice-DSA/tree/master/1089-duplicate-zeros) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/kaushal0194/Practice-DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/kaushal0194/Practice-DSA/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/kaushal0194/Practice-DSA/tree/master/2903-find-indices-with-index-and-value-difference-i) |
@@ -96,6 +97,7 @@
 | [0905-sort-array-by-parity](https://github.com/kaushal0194/Practice-DSA/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/kaushal0194/Practice-DSA/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/kaushal0194/Practice-DSA/tree/master/0922-sort-array-by-parity-ii) |
+| [1089-duplicate-zeros](https://github.com/kaushal0194/Practice-DSA/tree/master/1089-duplicate-zeros) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/kaushal0194/Practice-DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kaushal0194/Practice-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/kaushal0194/Practice-DSA/tree/master/1508-range-sum-of-sorted-subarray-sums) |
