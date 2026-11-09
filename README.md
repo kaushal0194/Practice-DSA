@@ -7,6 +7,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/kaushal0194/Practice-DSA/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kaushal0194/Practice-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/kaushal0194/Practice-DSA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/kaushal0194/Practice-DSA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/kaushal0194/Practice-DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/kaushal0194/Practice-DSA/tree/master/0342-power-of-four) |
@@ -38,6 +39,7 @@
 | [0075-sort-colors](https://github.com/kaushal0194/Practice-DSA/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/kaushal0194/Practice-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kaushal0194/Practice-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/kaushal0194/Practice-DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/kaushal0194/Practice-DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/kaushal0194/Practice-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/kaushal0194/Practice-DSA/tree/master/0443-string-compression) |
@@ -86,6 +88,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/kaushal0194/Practice-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/kaushal0194/Practice-DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kaushal0194/Practice-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/kaushal0194/Practice-DSA/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kaushal0194/Practice-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0275-h-index-ii](https://github.com/kaushal0194/Practice-DSA/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/kaushal0194/Practice-DSA/tree/master/0283-move-zeroes) |
