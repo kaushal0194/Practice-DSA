@@ -12,6 +12,7 @@
 | [0326-power-of-three](https://github.com/kaushal0194/Practice-DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/kaushal0194/Practice-DSA/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/kaushal0194/Practice-DSA/tree/master/0509-fibonacci-number) |
+| [0779-k-th-symbol-in-grammar](https://github.com/kaushal0194/Practice-DSA/tree/master/0779-k-th-symbol-in-grammar) |
 | [0877-stone-game](https://github.com/kaushal0194/Practice-DSA/tree/master/0877-stone-game) |
 ## Dynamic Programming
 |  |
@@ -26,6 +27,7 @@
 | [0326-power-of-three](https://github.com/kaushal0194/Practice-DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/kaushal0194/Practice-DSA/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/kaushal0194/Practice-DSA/tree/master/0509-fibonacci-number) |
+| [0779-k-th-symbol-in-grammar](https://github.com/kaushal0194/Practice-DSA/tree/master/0779-k-th-symbol-in-grammar) |
 ## Memoization
 |  |
 | ------- |
@@ -231,4 +233,5 @@
 | ------- |
 | [0231-power-of-two](https://github.com/kaushal0194/Practice-DSA/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/kaushal0194/Practice-DSA/tree/master/0342-power-of-four) |
+| [0779-k-th-symbol-in-grammar](https://github.com/kaushal0194/Practice-DSA/tree/master/0779-k-th-symbol-in-grammar) |
 <!---LeetCode Topics End-->
