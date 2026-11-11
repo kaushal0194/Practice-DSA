@@ -47,6 +47,7 @@
 | [0443-string-compression](https://github.com/kaushal0194/Practice-DSA/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/kaushal0194/Practice-DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0611-valid-triangle-number](https://github.com/kaushal0194/Practice-DSA/tree/master/0611-valid-triangle-number) |
+| [0821-shortest-distance-to-a-character](https://github.com/kaushal0194/Practice-DSA/tree/master/0821-shortest-distance-to-a-character) |
 | [0905-sort-array-by-parity](https://github.com/kaushal0194/Practice-DSA/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/kaushal0194/Practice-DSA/tree/master/0917-reverse-only-letters) |
 | [0922-sort-array-by-parity-ii](https://github.com/kaushal0194/Practice-DSA/tree/master/0922-sort-array-by-parity-ii) |
@@ -67,6 +68,7 @@
 | [0443-string-compression](https://github.com/kaushal0194/Practice-DSA/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/kaushal0194/Practice-DSA/tree/master/0459-repeated-substring-pattern) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/kaushal0194/Practice-DSA/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0821-shortest-distance-to-a-character](https://github.com/kaushal0194/Practice-DSA/tree/master/0821-shortest-distance-to-a-character) |
 | [0917-reverse-only-letters](https://github.com/kaushal0194/Practice-DSA/tree/master/0917-reverse-only-letters) |
 | [0925-long-pressed-name](https://github.com/kaushal0194/Practice-DSA/tree/master/0925-long-pressed-name) |
 | [2678-number-of-senior-citizens](https://github.com/kaushal0194/Practice-DSA/tree/master/2678-number-of-senior-citizens) |
@@ -98,6 +100,7 @@
 | [0436-find-right-interval](https://github.com/kaushal0194/Practice-DSA/tree/master/0436-find-right-interval) |
 | [0611-valid-triangle-number](https://github.com/kaushal0194/Practice-DSA/tree/master/0611-valid-triangle-number) |
 | [0713-subarray-product-less-than-k](https://github.com/kaushal0194/Practice-DSA/tree/master/0713-subarray-product-less-than-k) |
+| [0821-shortest-distance-to-a-character](https://github.com/kaushal0194/Practice-DSA/tree/master/0821-shortest-distance-to-a-character) |
 | [0877-stone-game](https://github.com/kaushal0194/Practice-DSA/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/kaushal0194/Practice-DSA/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/kaushal0194/Practice-DSA/tree/master/0912-sort-an-array) |
