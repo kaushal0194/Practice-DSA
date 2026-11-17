@@ -14,12 +14,14 @@
 | [0509-fibonacci-number](https://github.com/kaushal0194/Practice-DSA/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/kaushal0194/Practice-DSA/tree/master/0779-k-th-symbol-in-grammar) |
 | [0877-stone-game](https://github.com/kaushal0194/Practice-DSA/tree/master/0877-stone-game) |
+| [1137-n-th-tribonacci-number](https://github.com/kaushal0194/Practice-DSA/tree/master/1137-n-th-tribonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/kaushal0194/Practice-DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/kaushal0194/Practice-DSA/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/kaushal0194/Practice-DSA/tree/master/0877-stone-game) |
+| [1137-n-th-tribonacci-number](https://github.com/kaushal0194/Practice-DSA/tree/master/1137-n-th-tribonacci-number) |
 ## Recursion
 |  |
 | ------- |
@@ -33,6 +35,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/kaushal0194/Practice-DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/kaushal0194/Practice-DSA/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/kaushal0194/Practice-DSA/tree/master/1137-n-th-tribonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
